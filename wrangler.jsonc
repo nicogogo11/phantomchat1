@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "phantomchat1",
+  "compatibility_date": "2026-05-11",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "phantom-chat"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
